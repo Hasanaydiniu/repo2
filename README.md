@@ -3,8 +3,8 @@
 ## assignment 1 
 
 
-this is a __bold__ text \
-this is a *italic* text \
+this is a __bold__ text 
+this is a *italic* text 
 this is a writen both in **_italic and bold_** 
 [this is a link](https://www.google.com)
 |Student name|group number|e-mail|
